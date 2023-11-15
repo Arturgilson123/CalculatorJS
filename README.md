@@ -1,2 +1,2 @@
 # CalculatorJS
-Calculator that i made with HTML , Bootstrap CSS and JavaScript
+This is a calculator that i made with HTML , Bootstrap CSS and JavaScript
